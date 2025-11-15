@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="scatter_salary_experience.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
-    <img src="regression_line.png" width="45%" alt="Image 2 Description" style="float: right; margin-left: 2%;">
+    <img src="multiple_linear_regression.png" width="45%" alt="Image 2 Description" style="float: right; margin-left: 2%;">
 </p>
 <br clear="all" />
 
