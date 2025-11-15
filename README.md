@@ -28,7 +28,7 @@
 *This implementation helps understand:*
 - How linear regression works mathematically
 - The role of derivatives in optimization
-- Why we use gradient descent
+- How to use object oriented programming
 - How learning rate affects training
 - The relationship between cost and model performance
 
