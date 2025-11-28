@@ -1,6 +1,10 @@
 # What is linear regression?  
+<<<<<<< HEAD
 Linear regression is a fundamental statistical method used to model the relationship between a dependent variable and one or more independent variables. It helps us understand the relationship between variables and predict how one variable will change with respect to another one.
-
+=======
+Linear regression is a fundamental __statistical method__ used to model the relationship between a dependent variable (must be a __continuous variable__) and one or more independent variables. It helps us understand the relationship between variables and predict how one variable will change with respect to another one. \
+In this repository, we demonstrated how to develop a very basic multiple regression model from scratch using only NumPy library.  
+>>>>>>> 7248959d02e44e3e46ef0115ff320febb4831c70
 
 <p align="center">
     <img src="scatter_salary_experience.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
