@@ -17,12 +17,11 @@
 - **Salary:** Dependent variable (target)
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/10152/10152820.png" width="20" /> Mathematical Foundation
-- **Linear Regression Equation:** *f(x) = wx + b*
-- **Cost Function:** *J(w,b) = (1/2m) Σ(f(x) - y)²* 
-- **Gradient Descent Update:** \
-  *Where a = learning rate, (∂J/∂w) = (1/m) Σ(f(x) - y) × x, (∂J/∂b) = (1/m) Σ(f(x) - y)* 
-    - *w = w - α × (∂J/∂w)*
-    - *b = b - α × (∂J/∂b)*
+- **Linear Regression Equation:** $f(x) = wx + b$
+- **Cost Function:** $J(w,b) = (1/2m) \sum{(f(x) - y)}^2$ 
+- **Gradient Descent Update:** Where \
+        $w = w - \alpha \times \frac{\partial J}{\partial w}$ \
+        $b = b - \alpha \times \frac{\partial J}{\partial b}$
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/4185/4185714.png" width="20" /> Learning Resources
 *This implementation helps understand:*
