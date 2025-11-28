@@ -23,7 +23,7 @@
         $w = w - \alpha \times \frac{\partial J}{\partial w}$ \
         $b = b - \alpha \times \frac{\partial J}{\partial b}$
 
-## <img src="https://cdn-icons-png.flaticon.com/128/4185/4185714.png" width="20" /> Learning Resources
+## <img src="https://cdn-icons-png.flaticon.com/128/4185/4185714.png" width="20" /> Key Takeways
 *This implementation helps understand:*
 - How linear regression works mathematically
 - The role of derivatives in optimization
