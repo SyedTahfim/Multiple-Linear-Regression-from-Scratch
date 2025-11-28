@@ -1,5 +1,6 @@
-# What is linear regression? 
-*Building linear regression from the ground up to understand the math behind gradient descent, cost functions, and parameter optimization.*
+# What is linear regression?  
+Linear regression is a fundamental statistical method used to model the relationship between a dependent variable and one or more independent variables. It helps us understand the relationship between variables and predict how one variable will change with respect to another one.
+
 
 <p align="center">
     <img src="scatter_salary_experience.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
