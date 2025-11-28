@@ -1,5 +1,5 @@
 # <img src="https://cdn-icons-png.flaticon.com/128/11315/11315900.png" width="20" /> Motivation 
-Applying machine learning models has become very easy now-a-days. It is easy forget what is happening behind the hood. Keeping this in mind, I wanted to develop linear regression model from scratch. 
+Machine learning (ML) library like scikit learn has made it very easy to apply ML models without getting your hands dirty. As a result, it is easy forget what is happening behind the hood. Keeping this in mind, I wanted to develop linear regression model from scratch to have a clearer understanding about the math behind it and how it's done in python.
 
 # <img src ="https://cdn-icons-png.flaticon.com/128/3295/3295476.png" width="20" /> What is linear regression?  
 Linear regression is a fundamental statistical method used to model the relationship between a dependent variable and one or more independent variables. It helps us understand the relationship between variables and predict how one variable will change with respect to another one. The following figure shows what do we mean by linear relationship. It shows how a change in X (__Independant variable__) impacts y (__Dependent variable__). 
